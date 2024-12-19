@@ -1,1 +1,3 @@
 # DMBIProject
+
+The purpose of this project is to identify the key differences in the brain signals when presented with misleading and consistent stimuli. 25 participants were presented with stimuli that were consistent, misleading and indifferent while strapped to an EEG machine. The stimulus was presented for eight trials, and the peak values for neural components: p2, fn400, p3, and n2 were aggregated and stored. Along with the area under the curve for respective time series (150-275 ms, 150-350 ms, 250-400 ms, 300-500 ms). The following repo analyzes this data and draws conclusions based on the data.
